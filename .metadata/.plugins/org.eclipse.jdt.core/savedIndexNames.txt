@@ -13,7 +13,6 @@ INDEX VERSION 1.127+C:\Users\Brian\Documents\GitHub\COMP30050-Assignments\.metad
 4135216602.index
 134296050.index
 3668621785.index
-710781265.index
 2548499729.index
 3803567967.index
 2348113578.index
